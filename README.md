@@ -1,7 +1,7 @@
 # Ruby e IA: entender antes de aceitar
 
 Minicurso de cinco manhãs, para alunos de graduação em Computação, incluindo
-quem nunca escreveu uma linha de Ruby. Aqui está o material da **aula 1**.
+quem nunca escreveu uma linha de Ruby. Aqui está o material das **aulas 1 e 2**.
 
 > **A IA não faz nada melhor do que você seria capaz de criar. Ela amplia a sua
 > capacidade, não substitui.**
@@ -28,7 +28,7 @@ ruby bin/verificar aula1 02   # roda só o exercício 02
 
 ## Como estudar
 
-1. Leia o [README da aula 1](aula1/README.md).
+1. Leia o README da aula: [aula 1](aula1/README.md), [aula 2](aula2/README.md).
 2. Rode os exemplos e **leia a saída** antes de seguir.
 3. Resolva os exercícios.
 4. Rode a verificação e leia as falhas: a mensagem diz o que era esperado.
