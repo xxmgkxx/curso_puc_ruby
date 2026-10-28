@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Feira</title>
+</head>
+<body>
+  <h1>Produtos da feira</h1>
+  <ul>
+    <% produtos.each do |produto| %>
+      <li><%= produto[:nome] %>: R$ <%= format("%.2f", produto[:preco_em_centavos] / 100.0) %></li>
+    <% end %>
+  </ul>
+</body>
+</html>
