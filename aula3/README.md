@@ -62,4 +62,7 @@ A coluna `produtor_id` guarda o `id` de uma linha de outra tabela. Ela responde
    ruby bin/verificar aula3        # todos
    ruby bin/verificar aula3 01     # só o exercício 01
    ```
+   Cada teste sai como `CERTO` ou `ERRADO`. Embaixo de cada `ERRADO`, o
+   `Esperado` mostra o que o teste pedia, e o `Veio` mostra o que o seu método
+   devolveu. A `Linha` diz onde olhar. A última linha conta os certos.
 4. Abra `aula3/pagina.html` no navegador.

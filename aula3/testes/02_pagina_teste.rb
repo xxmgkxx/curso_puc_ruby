@@ -1,4 +1,4 @@
-require "minitest/autorun"
+require_relative "../../bin/certo_ou_errado"
 require_relative "../exercicios/02_pagina"
 
 class PaginaTeste < Minitest::Test
