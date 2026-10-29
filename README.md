@@ -1,7 +1,7 @@
 # Ruby e IA: entender antes de aceitar
 
 Minicurso de cinco manhãs, para alunos de graduação em Computação, incluindo
-quem nunca escreveu uma linha de Ruby. Aqui está o material das **aulas 1 a 3**.
+quem nunca escreveu uma linha de Ruby. Aqui está o material das **aulas 1 a 4**.
 
 > **A IA não faz nada melhor do que você seria capaz de criar. Ela amplia a sua
 > capacidade, não substitui.**
@@ -10,7 +10,10 @@ Por isso a ordem é: primeiro Ruby, depois IA. Nas primeiras aulas, sem IA.
 
 ## Como rodar
 
-Você precisa só do Ruby 3.4 ou mais novo (recomendado: 4.0). Nada de gems.
+Até a aula 3, você precisa só do Ruby 3.4 ou mais novo (recomendado: 4.0). Nada de gems.
+
+A aula 4 instala o Rails. A instalação precisa de internet e de um compilador C.
+Siga o Passo 0 do [README da aula 4](aula4/README.md).
 
 - **Windows:** baixe o "Ruby+Devkit 4.0.X (x64)" em rubyinstaller.org/downloads
   (notebook ARM: a versão arm), ou rode
@@ -28,7 +31,7 @@ ruby bin/verificar aula1 02   # roda só o exercício 02
 
 ## Como estudar
 
-1. Leia o README da aula: [aula 1](aula1/README.md), [aula 2](aula2/README.md), [aula 3](aula3/README.md).
+1. Leia o README da aula: [aula 1](aula1/README.md), [aula 2](aula2/README.md), [aula 3](aula3/README.md), [aula 4](aula4/README.md).
 2. Rode os exemplos e **leia a saída** antes de seguir.
 3. Resolva os exercícios.
 4. Rode a verificação e leia as falhas: a mensagem diz o que era esperado.
